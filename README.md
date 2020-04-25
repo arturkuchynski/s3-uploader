@@ -35,7 +35,7 @@ Positional arguments:
  - S3_BUCKET -  Name of a bucket.
  - S3_VISIBILITY - Either private or public visibility. Available values: private/public-read.
  - S3_PATH - Path to store file at.
- - SOURCE_FILE_PATH - Path to file to upload.
+ - SOURCE_FILE_PATH - Path to file or directory to upload.
  
 Optional arguments:
  - --s3_root - Root s3 bucket directory.
